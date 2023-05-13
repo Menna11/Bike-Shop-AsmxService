@@ -1,0 +1,118 @@
+E:\.net application\BikeAuthProject\bin\BikeAuthProject.dll.config
+E:\.net application\BikeAuthProject\bin\BikeAuthProject.dll
+E:\.net application\BikeAuthProject\bin\BikeAuthProject.pdb
+E:\.net application\BikeAuthProject\bin\roslyn\csc.exe
+E:\.net application\BikeAuthProject\bin\roslyn\csc.exe.config
+E:\.net application\BikeAuthProject\bin\roslyn\csc.rsp
+E:\.net application\BikeAuthProject\bin\roslyn\csi.exe
+E:\.net application\BikeAuthProject\bin\roslyn\csi.exe.config
+E:\.net application\BikeAuthProject\bin\roslyn\csi.rsp
+E:\.net application\BikeAuthProject\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+E:\.net application\BikeAuthProject\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+E:\.net application\BikeAuthProject\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+E:\.net application\BikeAuthProject\bin\roslyn\Microsoft.CodeAnalysis.dll
+E:\.net application\BikeAuthProject\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+E:\.net application\BikeAuthProject\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\.net application\BikeAuthProject\bin\roslyn\Microsoft.CSharp.Core.targets
+E:\.net application\BikeAuthProject\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+E:\.net application\BikeAuthProject\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+E:\.net application\BikeAuthProject\bin\roslyn\Microsoft.Managed.Core.targets
+E:\.net application\BikeAuthProject\bin\roslyn\Microsoft.VisualBasic.Core.targets
+E:\.net application\BikeAuthProject\bin\roslyn\Microsoft.Win32.Primitives.dll
+E:\.net application\BikeAuthProject\bin\roslyn\System.AppContext.dll
+E:\.net application\BikeAuthProject\bin\roslyn\System.Collections.Immutable.dll
+E:\.net application\BikeAuthProject\bin\roslyn\System.Console.dll
+E:\.net application\BikeAuthProject\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+E:\.net application\BikeAuthProject\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+E:\.net application\BikeAuthProject\bin\roslyn\System.Diagnostics.StackTrace.dll
+E:\.net application\BikeAuthProject\bin\roslyn\System.Globalization.Calendars.dll
+E:\.net application\BikeAuthProject\bin\roslyn\System.IO.Compression.dll
+E:\.net application\BikeAuthProject\bin\roslyn\System.IO.Compression.ZipFile.dll
+E:\.net application\BikeAuthProject\bin\roslyn\System.IO.FileSystem.dll
+E:\.net application\BikeAuthProject\bin\roslyn\System.IO.FileSystem.Primitives.dll
+E:\.net application\BikeAuthProject\bin\roslyn\System.Net.Http.dll
+E:\.net application\BikeAuthProject\bin\roslyn\System.Net.Sockets.dll
+E:\.net application\BikeAuthProject\bin\roslyn\System.Reflection.Metadata.dll
+E:\.net application\BikeAuthProject\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+E:\.net application\BikeAuthProject\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+E:\.net application\BikeAuthProject\bin\roslyn\System.Security.Cryptography.Encoding.dll
+E:\.net application\BikeAuthProject\bin\roslyn\System.Security.Cryptography.Primitives.dll
+E:\.net application\BikeAuthProject\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+E:\.net application\BikeAuthProject\bin\roslyn\System.Text.Encoding.CodePages.dll
+E:\.net application\BikeAuthProject\bin\roslyn\System.Threading.Tasks.Extensions.dll
+E:\.net application\BikeAuthProject\bin\roslyn\System.ValueTuple.dll
+E:\.net application\BikeAuthProject\bin\roslyn\System.Xml.ReaderWriter.dll
+E:\.net application\BikeAuthProject\bin\roslyn\System.Xml.XmlDocument.dll
+E:\.net application\BikeAuthProject\bin\roslyn\System.Xml.XPath.dll
+E:\.net application\BikeAuthProject\bin\roslyn\System.Xml.XPath.XDocument.dll
+E:\.net application\BikeAuthProject\bin\roslyn\vbc.exe
+E:\.net application\BikeAuthProject\bin\roslyn\vbc.exe.config
+E:\.net application\BikeAuthProject\bin\roslyn\vbc.rsp
+E:\.net application\BikeAuthProject\bin\roslyn\VBCSCompiler.exe
+E:\.net application\BikeAuthProject\bin\roslyn\VBCSCompiler.exe.config
+E:\.net application\BikeAuthProject\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+E:\.net application\BikeAuthProject\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+E:\.net application\BikeAuthProject\obj\Debug\BikeAuthProject.csproj.AssemblyReference.cache
+E:\.net application\BikeAuthProject\obj\Debug\BikeAuthProject.csproj.CoreCompileInputs.cache
+E:\.net application\BikeAuthProject\obj\Debug\BikeAuthProject.csproj.CopyComplete
+E:\.net application\BikeAuthProject\obj\Debug\BikeAuthProject.dll
+E:\.net application\BikeAuthProject\obj\Debug\BikeAuthProject.pdb
+D:\manar\Bike-Shop-AsmxService\BikeAuthProject\bin\BikeAuthProject.dll.config
+D:\manar\Bike-Shop-AsmxService\BikeAuthProject\bin\BikeAuthProject.dll
+D:\manar\Bike-Shop-AsmxService\BikeAuthProject\bin\BikeAuthProject.pdb
+D:\manar\Bike-Shop-AsmxService\BikeAuthProject\bin\roslyn\csc.exe
+D:\manar\Bike-Shop-AsmxService\BikeAuthProject\bin\roslyn\csc.exe.config
+D:\manar\Bike-Shop-AsmxService\BikeAuthProject\bin\roslyn\csc.rsp
+D:\manar\Bike-Shop-AsmxService\BikeAuthProject\bin\roslyn\csi.exe
+D:\manar\Bike-Shop-AsmxService\BikeAuthProject\bin\roslyn\csi.exe.config
+D:\manar\Bike-Shop-AsmxService\BikeAuthProject\bin\roslyn\csi.rsp
+D:\manar\Bike-Shop-AsmxService\BikeAuthProject\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\manar\Bike-Shop-AsmxService\BikeAuthProject\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\manar\Bike-Shop-AsmxService\BikeAuthProject\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\manar\Bike-Shop-AsmxService\BikeAuthProject\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\manar\Bike-Shop-AsmxService\BikeAuthProject\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\manar\Bike-Shop-AsmxService\BikeAuthProject\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\manar\Bike-Shop-AsmxService\BikeAuthProject\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\manar\Bike-Shop-AsmxService\BikeAuthProject\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\manar\Bike-Shop-AsmxService\BikeAuthProject\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\manar\Bike-Shop-AsmxService\BikeAuthProject\bin\roslyn\Microsoft.Managed.Core.targets
+D:\manar\Bike-Shop-AsmxService\BikeAuthProject\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\manar\Bike-Shop-AsmxService\BikeAuthProject\bin\roslyn\Microsoft.Win32.Primitives.dll
+D:\manar\Bike-Shop-AsmxService\BikeAuthProject\bin\roslyn\System.AppContext.dll
+D:\manar\Bike-Shop-AsmxService\BikeAuthProject\bin\roslyn\System.Collections.Immutable.dll
+D:\manar\Bike-Shop-AsmxService\BikeAuthProject\bin\roslyn\System.Console.dll
+D:\manar\Bike-Shop-AsmxService\BikeAuthProject\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+D:\manar\Bike-Shop-AsmxService\BikeAuthProject\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\manar\Bike-Shop-AsmxService\BikeAuthProject\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\manar\Bike-Shop-AsmxService\BikeAuthProject\bin\roslyn\System.Globalization.Calendars.dll
+D:\manar\Bike-Shop-AsmxService\BikeAuthProject\bin\roslyn\System.IO.Compression.dll
+D:\manar\Bike-Shop-AsmxService\BikeAuthProject\bin\roslyn\System.IO.Compression.ZipFile.dll
+D:\manar\Bike-Shop-AsmxService\BikeAuthProject\bin\roslyn\System.IO.FileSystem.dll
+D:\manar\Bike-Shop-AsmxService\BikeAuthProject\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\manar\Bike-Shop-AsmxService\BikeAuthProject\bin\roslyn\System.Net.Http.dll
+D:\manar\Bike-Shop-AsmxService\BikeAuthProject\bin\roslyn\System.Net.Sockets.dll
+D:\manar\Bike-Shop-AsmxService\BikeAuthProject\bin\roslyn\System.Reflection.Metadata.dll
+D:\manar\Bike-Shop-AsmxService\BikeAuthProject\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+D:\manar\Bike-Shop-AsmxService\BikeAuthProject\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\manar\Bike-Shop-AsmxService\BikeAuthProject\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\manar\Bike-Shop-AsmxService\BikeAuthProject\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\manar\Bike-Shop-AsmxService\BikeAuthProject\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\manar\Bike-Shop-AsmxService\BikeAuthProject\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\manar\Bike-Shop-AsmxService\BikeAuthProject\bin\roslyn\System.Threading.Tasks.Extensions.dll
+D:\manar\Bike-Shop-AsmxService\BikeAuthProject\bin\roslyn\System.ValueTuple.dll
+D:\manar\Bike-Shop-AsmxService\BikeAuthProject\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\manar\Bike-Shop-AsmxService\BikeAuthProject\bin\roslyn\System.Xml.XmlDocument.dll
+D:\manar\Bike-Shop-AsmxService\BikeAuthProject\bin\roslyn\System.Xml.XPath.dll
+D:\manar\Bike-Shop-AsmxService\BikeAuthProject\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\manar\Bike-Shop-AsmxService\BikeAuthProject\bin\roslyn\vbc.exe
+D:\manar\Bike-Shop-AsmxService\BikeAuthProject\bin\roslyn\vbc.exe.config
+D:\manar\Bike-Shop-AsmxService\BikeAuthProject\bin\roslyn\vbc.rsp
+D:\manar\Bike-Shop-AsmxService\BikeAuthProject\bin\roslyn\VBCSCompiler.exe
+D:\manar\Bike-Shop-AsmxService\BikeAuthProject\bin\roslyn\VBCSCompiler.exe.config
+D:\manar\Bike-Shop-AsmxService\BikeAuthProject\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\manar\Bike-Shop-AsmxService\BikeAuthProject\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\manar\Bike-Shop-AsmxService\BikeAuthProject\obj\Debug\BikeAuthProject.csproj.AssemblyReference.cache
+D:\manar\Bike-Shop-AsmxService\BikeAuthProject\obj\Debug\BikeAuthProject.csproj.CoreCompileInputs.cache
+D:\manar\Bike-Shop-AsmxService\BikeAuthProject\obj\Debug\BikeAuthProject.csproj.CopyComplete
+D:\manar\Bike-Shop-AsmxService\BikeAuthProject\obj\Debug\BikeAuthProject.dll
+D:\manar\Bike-Shop-AsmxService\BikeAuthProject\obj\Debug\BikeAuthProject.pdb
